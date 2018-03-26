@@ -1,2 +1,1 @@
-# rightscale-repo
 # alexa-rightscale
